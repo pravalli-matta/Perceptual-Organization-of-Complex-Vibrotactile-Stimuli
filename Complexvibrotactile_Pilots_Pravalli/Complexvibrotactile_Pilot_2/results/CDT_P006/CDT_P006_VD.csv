@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S01_sine_IFI50_AM30.wav,continuous
+2,S27_saw_IFI150_AM90.wav,beep beep beep
+3,S12_square_IFI50_AM90.wav,break
+4,S18_square_IFI150_AM90.wav,less intensity and break
+5,S16_square_IFI150_AM30.wav,continuous
+6,S15_square_IFI100_AM90.wav,break 
+7,S13_square_IFI100_AM30.wav,continuous
+8,S26_saw_IFI150_AM60.wav,continuous less intensity 
+9,S07_sine_IFI150_AM30.wav,continuous
+10,S20_saw_IFI50_AM60.wav,break break break
+11,S23_saw_IFI100_AM60.wav,break with more intensity 
+12,S17_square_IFI150_AM60.wav,fast break break break
+13,S02_sine_IFI50_AM60.wav,break 
+14,S08_sine_IFI150_AM60.wav,continuous 
+15,S09_sine_IFI150_AM90.wav,break break break
+16,S22_saw_IFI100_AM30.wav,continuous 
+17,S05_sine_IFI100_AM60.wav,break break break
+18,S24_saw_IFI100_AM90.wav,break with more intensity 
+19,S10_square_IFI50_AM30.wav,more intensiry 
+20,S14_square_IFI100_AM60.wav,break break break 
+21,S03_sine_IFI50_AM90.wav,break break break 
+22,S04_sine_IFI100_AM30.wav,continuous 
+23,S21_saw_IFI50_AM90.wav,break break break 
+24,S19_saw_IFI50_AM30.wav,continuous 
+25,S06_sine_IFI100_AM90.wav,break break break
+26,S25_saw_IFI150_AM30.wav,continuous 
+27,S11_square_IFI50_AM60.wav,break break break 

@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S08_sine_IFI150_AM60.wav,Fast Wave 
+2,S26_saw_IFI150_AM60.wav,Fast Sharp wave 
+3,S24_saw_IFI100_AM90.wav,Hard wave 
+4,S02_sine_IFI50_AM60.wav,Most hard wave 
+5,S07_sine_IFI150_AM30.wav,Continuous noise  
+6,S03_sine_IFI50_AM90.wav,Continuous bullets 
+7,S18_square_IFI150_AM90.wav,medium wave 
+8,S05_sine_IFI100_AM60.wav,hard wave 
+9,S19_saw_IFI50_AM30.wav,most hard wave 
+10,S20_saw_IFI50_AM60.wav,feels like rock
+11,S01_sine_IFI50_AM30.wav,thunder
+12,S27_saw_IFI150_AM90.wav,low energy wave 
+13,S25_saw_IFI150_AM30.wav,medium wave 
+14,S16_square_IFI150_AM30.wav,continuous high noise
+15,S22_saw_IFI100_AM30.wav,most noisy 
+16,S11_square_IFI50_AM60.wav,continuous bullets 
+17,S12_square_IFI50_AM90.wav,hard bullets 
+18,S21_saw_IFI50_AM90.wav,most hard wave 
+19,S15_square_IFI100_AM90.wav,hard wave 
+20,S23_saw_IFI100_AM60.wav,normal wave 
+21,S10_square_IFI50_AM30.wav,continuous hard wave 
+22,S04_sine_IFI100_AM30.wav,Continuous noise  
+23,S06_sine_IFI100_AM90.wav,Continuous noise  
+24,S17_square_IFI150_AM60.wav,continuous low noise
+25,S13_square_IFI100_AM30.wav,continuous hard noise 
+26,S14_square_IFI100_AM60.wav,rocky wave 
+27,S09_sine_IFI150_AM90.wav,continuous low noise 

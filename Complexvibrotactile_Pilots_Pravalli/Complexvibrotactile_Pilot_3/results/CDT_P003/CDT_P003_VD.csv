@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S01_ATT100_IFI50_AM30.wav,high intensity
+2,S24_ATT400_IFI100_AM90.wav,low intensity
+3,S07_ATT100_IFI150_AM30.wav,medium 
+4,S08_ATT100_IFI150_AM60.wav,high intensity
+5,S05_ATT100_IFI100_AM60.wav,high intensity
+6,S11_ATT250_IFI50_AM60.wav,medium 
+7,S21_ATT400_IFI50_AM90.wav,low intensity 
+8,S25_ATT400_IFI150_AM30.wav,low intensity 
+9,S27_ATT400_IFI150_AM90.wav,high intensity
+10,S03_ATT100_IFI50_AM90.wav,medium 
+11,S16_ATT250_IFI150_AM30.wav,high intensity
+12,S14_ATT250_IFI100_AM60.wav,low intensity
+13,S17_ATT250_IFI150_AM60.wav,high intensity
+14,S02_ATT100_IFI50_AM60.wav,high intensity
+15,S10_ATT250_IFI50_AM30.wav,very low 
+16,S09_ATT100_IFI150_AM90.wav,medium 
+17,S19_ATT400_IFI50_AM30.wav,medium 
+18,S26_ATT400_IFI150_AM60.wav,high intensity
+19,S20_ATT400_IFI50_AM60.wav,high intensity
+20,S15_ATT250_IFI100_AM90.wav,low 
+21,S18_ATT250_IFI150_AM90.wav,high intensity
+22,S13_ATT250_IFI100_AM30.wav,high intensity
+23,S12_ATT250_IFI50_AM90.wav,high intensity
+24,S04_ATT100_IFI100_AM30.wav,high intensity
+25,S06_ATT100_IFI100_AM90.wav,high intensity
+26,S23_ATT400_IFI100_AM60.wav,medium 
+27,S22_ATT400_IFI100_AM30.wav,medium 

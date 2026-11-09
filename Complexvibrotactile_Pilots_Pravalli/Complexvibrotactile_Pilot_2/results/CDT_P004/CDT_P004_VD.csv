@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S07_sine_IFI150_AM30.wav,continuous
+2,S26_saw_IFI150_AM60.wav,less intensity
+3,S06_sine_IFI100_AM90.wav,more pulsating
+4,S16_square_IFI150_AM30.wav,continuous
+5,S02_sine_IFI50_AM60.wav,pulsating
+6,S09_sine_IFI150_AM90.wav,less intensity 
+7,S19_saw_IFI50_AM30.wav,more frequent 
+8,S11_square_IFI50_AM60.wav,higher intensity 
+9,S14_square_IFI100_AM60.wav,fast vibration
+10,S20_saw_IFI50_AM60.wav,slow vibration
+11,S15_square_IFI100_AM90.wav,fast vibration
+12,S05_sine_IFI100_AM60.wav,fast 
+13,S22_saw_IFI100_AM30.wav,continuous
+14,S08_sine_IFI150_AM60.wav,continuosu but reduced intensity 
+15,S13_square_IFI100_AM30.wav,continuosu and higher 
+16,S01_sine_IFI50_AM30.wav,more frequent 
+17,S12_square_IFI50_AM90.wav,less 
+18,S24_saw_IFI100_AM90.wav,less intensity 
+19,S21_saw_IFI50_AM90.wav,normal 
+20,S18_square_IFI150_AM90.wav,less
+21,S17_square_IFI150_AM60.wav,continuos 
+22,S04_sine_IFI100_AM30.wav,continuous 
+23,S27_saw_IFI150_AM90.wav,less intensity and frequency 
+24,S25_saw_IFI150_AM30.wav,continuous
+25,S10_square_IFI50_AM30.wav,continuous and higher intensity 
+26,S03_sine_IFI50_AM90.wav,slow and same intenisty as last 
+27,S23_saw_IFI100_AM60.wav,normal 

@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S20_saw_IFI50_AM60.wav,repeat
+2,S11_square_IFI50_AM60.wav,shock repeat
+3,S25_saw_IFI150_AM30.wav,Normal flow
+4,S04_sine_IFI100_AM30.wav,speed
+5,S02_sine_IFI50_AM60.wav,slow pulse
+6,S03_sine_IFI50_AM90.wav,continuous
+7,S05_sine_IFI100_AM60.wav,continuous
+8,S07_sine_IFI150_AM30.wav,Normal 
+9,S09_sine_IFI150_AM90.wav,pulse
+10,S15_square_IFI100_AM90.wav,more pressure pulse
+11,S10_square_IFI50_AM30.wav,high speed wave 
+12,S26_saw_IFI150_AM60.wav,low
+13,S21_saw_IFI50_AM90.wav,pulse
+14,S08_sine_IFI150_AM60.wav,more pressure pulse
+15,S06_sine_IFI100_AM90.wav,high speed wave 
+16,S12_square_IFI50_AM90.wav,low
+17,S23_saw_IFI100_AM60.wav,pulse
+18,S18_square_IFI150_AM90.wav,slow pulse
+19,S22_saw_IFI100_AM30.wav,pulse
+20,S24_saw_IFI100_AM90.wav,high speed
+21,S17_square_IFI150_AM60.wav,low
+22,S27_saw_IFI150_AM90.wav,slow wave 
+23,S19_saw_IFI50_AM30.wav,slow wave 
+24,S14_square_IFI100_AM60.wav,more slow wave 
+25,S16_square_IFI150_AM30.wav,speed
+26,S01_sine_IFI50_AM30.wav,speed
+27,S13_square_IFI100_AM30.wav,speed 

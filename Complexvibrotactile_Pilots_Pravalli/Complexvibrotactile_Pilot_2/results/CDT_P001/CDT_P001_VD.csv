@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S05_sine_IFI100_AM60.wav,Rough
+2,S10_square_IFI50_AM30.wav,Rough
+3,S09_sine_IFI150_AM90.wav,Stairs
+4,S04_sine_IFI100_AM30.wav,Smooth
+5,S20_saw_IFI50_AM60.wav,Crackers bursting
+6,S06_sine_IFI100_AM90.wav,Engine sound
+7,S19_saw_IFI50_AM30.wav,Rough
+8,S24_saw_IFI100_AM90.wav,Engine sound
+9,S26_saw_IFI150_AM60.wav,Rough
+10,S08_sine_IFI150_AM60.wav,Stairs
+11,S25_saw_IFI150_AM30.wav,Smooth
+12,S23_saw_IFI100_AM60.wav,Rough
+13,S03_sine_IFI50_AM90.wav,Little Smooth
+14,S27_saw_IFI150_AM90.wav,Slow Drizzle
+15,S14_square_IFI100_AM60.wav,Rough
+16,S11_square_IFI50_AM60.wav,Engine sound
+17,S02_sine_IFI50_AM60.wav,Engine sound
+18,S15_square_IFI100_AM90.wav,Tap Sound
+19,S18_square_IFI150_AM90.wav,Rough
+20,S12_square_IFI50_AM90.wav,Pulsating
+21,S22_saw_IFI100_AM30.wav,Smooth
+22,S01_sine_IFI50_AM30.wav,Zip Sound
+23,S17_square_IFI150_AM60.wav,Heart beat
+24,S13_square_IFI100_AM30.wav,Smooth
+25,S16_square_IFI150_AM30.wav,Gliding
+26,S07_sine_IFI150_AM30.wav,Pulsating
+27,S21_saw_IFI50_AM90.wav,Engine sound

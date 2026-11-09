@@ -1,0 +1,28 @@
+Presentation_Order,Stimulus_File,Description
+1,S16_ATT250_IFI150_AM30.wav,little shock 
+2,S25_ATT400_IFI150_AM30.wav,little shock 
+3,S09_ATT100_IFI150_AM90.wav,hitting with less force
+4,S15_ATT250_IFI100_AM90.wav,hitting with force
+5,S20_ATT400_IFI50_AM60.wav,pressing  finger
+6,S26_ATT400_IFI150_AM60.wav,little shock 
+7,S17_ATT250_IFI150_AM60.wav,little shock 
+8,S14_ATT250_IFI100_AM60.wav,pressing finger 
+9,S22_ATT400_IFI100_AM30.wav,soft 
+10,S12_ATT250_IFI50_AM90.wav,rough
+11,S18_ATT250_IFI150_AM90.wav,rough 
+12,S21_ATT400_IFI50_AM90.wav,pressing finger 
+13,S05_ATT100_IFI100_AM60.wav,soft 
+14,S06_ATT100_IFI100_AM90.wav,pressing finger 
+15,S19_ATT400_IFI50_AM30.wav,fast 
+16,S07_ATT100_IFI150_AM30.wav,soft 
+17,S03_ATT100_IFI50_AM90.wav,rough 
+18,S11_ATT250_IFI50_AM60.wav,fast 
+19,S01_ATT100_IFI50_AM30.wav,rough 
+20,S27_ATT400_IFI150_AM90.wav,soft 
+21,S10_ATT250_IFI50_AM30.wav,fast 
+22,S23_ATT400_IFI100_AM60.wav,slow
+23,S08_ATT100_IFI150_AM60.wav,soft 
+24,S13_ATT250_IFI100_AM30.wav,fast 
+25,S02_ATT100_IFI50_AM60.wav,pressing finger 
+26,S04_ATT100_IFI100_AM30.wav,fast 
+27,S24_ATT400_IFI100_AM90.wav,pressing finger 
